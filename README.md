@@ -12,6 +12,11 @@ Here is some of the tasks:
 
 ### Results
 ##### School District Summary
-[](Images/SchoolDistrictSummary.png)
+<img width="942" alt="SchoolDistrictSummary" src="https://user-images.githubusercontent.com/70301884/94151264-d1888000-fe3f-11ea-9825-fe7763219f4f.png">
+
+
+
+##### High Performing Schools
+Top 5 Schools
 
 
