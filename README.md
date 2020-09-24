@@ -51,4 +51,9 @@ Bottom 5 Schools
 
 ### Summary
 
+We replaced 9th grader students at Thomas High School math and reading scores with NaN.This affected 461 students out of 1635 Thomas High School students (28,2%)
+
+
+
+
 
