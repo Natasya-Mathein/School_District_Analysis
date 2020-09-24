@@ -1,7 +1,8 @@
 # School_District_Analysis
 
 ### Overview
-##### Maria, the Chief Data Scientist for the school district was tasked to analyze the data such as reading and math score, school budget and funding to help the school board make decision and plan.
+##### Maria, the Chief Data Scientist for the school district was tasked to analyze the data such as reading and math scores, school budget and funding to help the school board make decisions and plan for the future.
+
 Here is some of the tasks:
 * High and Low performing schools
 * Average math score by grade and school
@@ -55,6 +56,7 @@ Bottom 5 Schools
 * Thomas High School % passing math, % passing reading and % of overall change to 97.50%, 97.02% and 90.63%
 * Average Math Score by grade and by school also affected since there are no score for 9th grade from Thomas High School
 * Average Reading Score by grade and by school also affected since there are no score for 9th grade from Thomas High School
+* Based on these results, Charter Schools have significantly outperformed District Schools
 
 ###### Thomas High School Before 9th Grader Edit
 
