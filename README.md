@@ -1,7 +1,7 @@
 # School_District_Analysis
 
 ### Overview
-##### Maria, the Chief Data Scientist for the school district was tasked to analyzed the data such as reading and math score, school budget and funding to help the school board make decision and plan.
+##### Maria, the Chief Data Scientist for the school district was tasked to analyze the data such as reading and math score, school budget and funding to help the school board make decision and plan.
 Here is some of the tasks:
 * High and Low performing schools
 * Average math score by grade and school
