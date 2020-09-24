@@ -23,7 +23,7 @@ Top 5 Schools
 
 
 
-######Low Performing Schools
+###### Low Performing Schools
 Bottom 5 Schools
 <img width="1002" alt="Bottom5Schools" src="https://user-images.githubusercontent.com/70301884/94151338-e6fdaa00-fe3f-11ea-9e6c-647bf6d9dcb8.png">
 
