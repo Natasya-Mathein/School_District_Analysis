@@ -57,6 +57,8 @@ Bottom 5 Schools
 * Average Math Score by grade and by school also affected since there are no score for 9th grade from Thomas High School
 * Average Reading Score by grade and by school also affected since there are no score for 9th grade from Thomas High School
 * Based on these results, Charter Schools have significantly outperformed District Schools
+* Medium and Small Size School also have outperformed Large Schools
+* A higher spending per student does not appear to increase scores
 
 ###### Thomas High School Before 9th Grader Edit
 
