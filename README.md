@@ -51,8 +51,10 @@ Bottom 5 Schools
 
 ### Summary
 
-We replaced 9th grader students at Thomas High School math and reading scores with NaN.This affected 461 students out of 1635 Thomas High School students (28.2%)
-Thomas High School % passing math, % passing reading and % of overall change to 
+* We replaced 9th grader students at Thomas High School math and reading scores with NaN.This affected 461 students out of 1635 Thomas High School students (28.2%)
+* Thomas High School % passing math, % passing reading and % of overall change to 97.50%, 97.02% and 90.63%
+* Average Math Score by grade and by school also affected since there are no score for 9th grade from Thomas High School
+* Average Reading Score by grade and by school also affected since there are no score for 9th grade from Thomas High School
 
 <img width="1005" alt="ThomasHSAfterEdit" src="https://user-images.githubusercontent.com/70301884/94176595-f12ea100-fe5d-11ea-97df-09ce3999edaf.png">
 
