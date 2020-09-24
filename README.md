@@ -56,6 +56,12 @@ Bottom 5 Schools
 * Average Math Score by grade and by school also affected since there are no score for 9th grade from Thomas High School
 * Average Reading Score by grade and by school also affected since there are no score for 9th grade from Thomas High School
 
+###### Thomas High School Before 9th Grader Edit
+
+<img width="1004" alt="ThomasHSBeforeEdit" src="https://user-images.githubusercontent.com/70301884/94203313-c9066880-fe84-11ea-850d-cd15e9285f20.png">
+
+###### Thomas High School After 9th Grader Edit
+
 <img width="1005" alt="ThomasHSAfterEdit" src="https://user-images.githubusercontent.com/70301884/94176595-f12ea100-fe5d-11ea-97df-09ce3999edaf.png">
 
 
