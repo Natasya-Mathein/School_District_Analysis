@@ -45,5 +45,9 @@ Bottom 5 Schools
 <img width="795" alt="GroupScoresbySchoolSize" src="https://user-images.githubusercontent.com/70301884/94151393-f4b32f80-fe3f-11ea-9054-19d9dc43f646.png">
 
 ##### Group Scores by School Type
+
 <img width="728" alt="GroupScoresbySchoolType" src="https://user-images.githubusercontent.com/70301884/94151403-f977e380-fe3f-11ea-9ea1-af33684b75ac.png">
+
+
+### Summary
 
